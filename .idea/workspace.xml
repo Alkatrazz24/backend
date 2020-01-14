@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="68bdbd21-53af-4467-817e-178396675a21" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WGksYrc0umNOEx4L5MM4xZYdt4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="10.15.2" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/oui/Login-Register-Nodejs" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager">
+    <configuration name="create.edge" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Backend/views/create.edge" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.create.edge" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68bdbd21-53af-4467-817e-178396675a21" name="Default Changelist" comment="" />
+      <created>1578783525132</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578783525132</updated>
+      <workItem from="1578783526404" duration="1651000" />
+      <workItem from="1578785219727" duration="1787000" />
+      <workItem from="1578787041595" duration="1793000" />
+      <workItem from="1578789148795" duration="1803000" />
+      <workItem from="1578790977510" duration="1795000" />
+      <workItem from="1578792790737" duration="1794000" />
+      <workItem from="1578794610198" duration="1795000" />
+      <workItem from="1578796424488" duration="1971000" />
+      <workItem from="1578798440518" duration="1792000" />
+      <workItem from="1578800688427" duration="1201000" />
+      <workItem from="1578838479393" duration="1791000" />
+      <workItem from="1578840317501" duration="770000" />
+      <workItem from="1578841290308" duration="1003000" />
+      <workItem from="1578843679128" duration="1772000" />
+      <workItem from="1578845894886" duration="1788000" />
+      <workItem from="1578847816271" duration="1760000" />
+      <workItem from="1578849625845" duration="1788000" />
+      <workItem from="1578851967395" duration="1796000" />
+      <workItem from="1578853804822" duration="1673000" />
+      <workItem from="1578855694373" duration="1792000" />
+      <workItem from="1578857511325" duration="1823000" />
+      <workItem from="1578859390687" duration="1793000" />
+      <workItem from="1578861217418" duration="1795000" />
+      <workItem from="1578863039603" duration="1787000" />
+      <workItem from="1578864853886" duration="1792000" />
+      <workItem from="1578866668577" duration="1793000" />
+      <workItem from="1578868488709" duration="1792000" />
+      <workItem from="1578870303418" duration="1849000" />
+      <workItem from="1578872178214" duration="1872000" />
+      <workItem from="1578874173489" duration="81000" />
+      <workItem from="1578874400327" duration="1950000" />
+      <workItem from="1578876409881" duration="488000" />
+      <workItem from="1578877018616" duration="1790000" />
+      <workItem from="1578879144061" duration="1793000" />
+      <workItem from="1578880958520" duration="1819000" />
+      <workItem from="1578882804543" duration="1791000" />
+      <workItem from="1578884683464" duration="1869000" />
+      <workItem from="1578886573724" duration="1792000" />
+      <workItem from="1578888399354" duration="1792000" />
+      <workItem from="1578890275083" duration="1794000" />
+      <workItem from="1578892083830" duration="1794000" />
+      <workItem from="1578893895852" duration="1362000" />
+      <workItem from="1578895763833" duration="1792000" />
+      <workItem from="1578897591290" duration="129000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="745" y="288" width="489" height="658" key="#app.edge" timestamp="1578794989978">
+      <screen x="70" y="27" width="1850" height="1173" />
+    </state>
+    <state x="745" y="288" width="489" height="658" key="#app.edge/70.27.1850.1173@70.27.1850.1173" timestamp="1578794989978" />
+    <state x="433" y="278" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578785401752">
+      <screen x="70" y="27" width="1850" height="1173" />
+    </state>
+    <state x="433" y="278" key="#com.intellij.execution.impl.EditConfigurationsDialog/70.27.1850.1173@70.27.1850.1173" timestamp="1578785401752" />
+    <state x="687" y="418" width="606" height="397" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578855976010">
+      <screen x="70" y="27" width="1850" height="1173" />
+    </state>
+    <state x="687" y="418" width="606" height="397" key="#com.intellij.fileTypes.FileTypeChooser/70.27.1850.1173@70.27.1850.1173" timestamp="1578855976010" />
+    <state x="778" y="371" width="424" height="491" key="FileChooserDialogImpl" timestamp="1578872504520">
+      <screen x="70" y="27" width="1850" height="1173" />
+    </state>
+    <state x="778" y="371" width="424" height="491" key="FileChooserDialogImpl/70.27.1850.1173@70.27.1850.1173" timestamp="1578872504520" />
+    <state x="739" y="306" width="501" height="622" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1578851217184">
+      <screen x="70" y="27" width="1850" height="1173" />
+    </state>
+    <state x="739" y="306" width="501" height="622" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/70.27.1850.1173@70.27.1850.1173" timestamp="1578851217184" />
+    <state x="659" y="282" key="run.anything.popup" timestamp="1578881401650">
+      <screen x="70" y="27" width="1850" height="1173" />
+    </state>
+    <state x="659" y="282" key="run.anything.popup/70.27.1850.1173@70.27.1850.1173" timestamp="1578881401650" />
+    <state x="658" y="289" width="672" height="678" key="search.everywhere.popup" timestamp="1578870313351">
+      <screen x="70" y="27" width="1850" height="1173" />
+    </state>
+    <state x="658" y="289" width="672" height="678" key="search.everywhere.popup/70.27.1850.1173@70.27.1850.1173" timestamp="1578870313351" />
+  </component>
+</project>
